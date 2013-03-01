@@ -8,4 +8,9 @@
   	<version>0.0.1-SNAPSHOT</version>
   	<relativePath>../pom.xml</relativePath>
   </parent>
+  
+  <scm>
+  	<connection>scm:git:https://github.com/bsudy/childproject.git</connection>
+  	<developerConnection>scm:git:https://github.com/bsudy/childproject.git</developerConnection>
+  </scm>
 </project>
